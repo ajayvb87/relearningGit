@@ -1,3 +1,5 @@
 This is my first try to understand Merge conflict
 
-This is my second line 
+This is my second line
+
+Added new line by feature
