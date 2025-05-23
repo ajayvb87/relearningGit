@@ -1,5 +1,4 @@
 This is my first try to understand Merge conflict
-
 This is my second line
-
 This is my third line in master to create conflict
+Added new line by feature
